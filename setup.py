@@ -62,7 +62,7 @@ setup(
     keywords='jwt json web token security signing',
     url='http://github.com/jpadilla/pyjwt',
     packages=get_packages('jwt'),
-    scripts=['bin/jwt'],
+    #scripts=['bin/jwt'],
     long_description=long_description,
     classifiers=[
         'Development Status :: 5 - Production/Stable',
